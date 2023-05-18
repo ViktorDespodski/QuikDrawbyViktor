@@ -26,13 +26,13 @@ const string Fire = @"
 const string LoseTooSlow = @" 
                         > ╗__O 
 //         Too Slow        / \ 
-O//\     You Lose       /\ 
+O__/\     You Lose       /\ 
      \                   | \ 
 ------------------------------------------------------";
 const string LoseTooFast = @" 
             Too Fast    > ╗__O 
 //         You Missed       / \ 
-O//\      You Lose       /\
+O__//\      You Lose       /\
 \                         | \ 
 ------------------------------------------------------";
 const string Win = @" 
